@@ -1,20 +1,16 @@
 #  Hi, My name is Vaanya Singh
 
 ##  About Me
-
 I am a first-year student from the AIML (Artificial Intelligence & Machine Learning) branch.
 
 ##  What I'm Learning?
-
 Right now, I’m exploring and building my understanding in:
 
 * Basic programming
 * Communication skills
-* Presentation skills
 * Using different online tools for academic and professional growth
 
 ##  My Goal
-
 My main goal is to grow both technically and personally. I want to build strong skills in Artificial Intelligence and Machine Learning, while also becoming more confident in using digital tools in real-world and academic situations.
 
 
