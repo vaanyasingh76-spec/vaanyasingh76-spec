@@ -4,11 +4,7 @@
 I am a first-year student from the AIML (Artificial Intelligence & Machine Learning) branch.
 
 ##  What I'm Learning?
-Right now, I’m exploring and building my understanding in:
-
-* Basic programming
-* Communication skills
-* Using different online tools for academic and professional growth
+Right now, I’m exploring and building my understanding in: Basic programming, Communication skills and using different online tools for academic and professonal growth.
 
 ##  My Goal
 My main goal is to grow both technically and personally. I want to build strong skills in Artificial Intelligence and Machine Learning, while also becoming more confident in using digital tools in real-world and academic situations.
