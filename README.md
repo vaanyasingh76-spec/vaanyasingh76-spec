@@ -1,7 +1,7 @@
 # Hi, My name is Vaanya Singh
 
-#Branch : AI- ML (Artificial Intelligence and Machine Learning)
-#Year : First year 
+# Branch : AI- ML (Artificial Intelligence and Machine Learning)
+# Year : First year 
 
 I am currently learning basic programming, communication skills, presentation skills, and how to use different online platforms for academic and professional growth.
 My goal is to improve my technical and soft skills, especially in Artificial Intelligence and Machine Learning, and become confident in using digital tools effectively in both academic and real-world situations.
