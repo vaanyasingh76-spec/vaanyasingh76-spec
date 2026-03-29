@@ -1,7 +1,3 @@
-Here’s a more humanised, cleaner version of your README with proper headings:
-
----
-
 #  Hi, My name is Vaanya Singh
 
 ##  About Me
