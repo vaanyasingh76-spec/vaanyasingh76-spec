@@ -1,23 +1,10 @@
-# Hi, I'm Vaanya Singh 
+# Hi, My name is Vaanya Singh
 
-##  About Me
-- Branch: [AI-ML (Artificial Intelligence and Machine Learning)]
-- Year: 1st Year B.Tech Student
+I am a first-year B-Tech student in the AIML branch.
 
-##  What I’m Exploring?
-I am currently in my first year of engineering, trying to explore different areas and understand what I enjoy the most. Along with learning basic programming, I’m also interested in improving my communication skills, understanding how technology is used in real life, and becoming more confident in presenting my ideas.
+I am currently learning basic programming, communication skills, presentation skills, and how to use different online platforms for academic and professional growth.
 
-##  Interests
-- Learning new things and trying different tools  
-- Improving communication and presentation skills  
-- Exploring technology and how it impacts daily life  
-- Working on small projects and assignments  
-
-##  Goals
-- Build a strong foundation in my core subjects  
-- Become more confident in both technical and non-technical skills  
-- Use digital tools effectively for learning and growth  
-
+My goal is to improve my technical and soft skills, especially in Artificial Intelligence and Machine Learning, and become confident in using digital tools effectively in both academic and real-world situations.
 
 <!--
 **vaanyasingh76-spec/vaanyasingh76-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
