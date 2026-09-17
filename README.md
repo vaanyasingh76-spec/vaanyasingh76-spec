@@ -1,7 +1,7 @@
 #  Hi, My name is Vaanya Singh
 
 ##  About Me
-I am a first-year student from the AIML (Artificial Intelligence & Machine Learning) branch.
+I am a second-year student from the AIML (Artificial Intelligence & Machine Learning) branch.
 
 ##  What I'm Learning?
 Right now, I’m exploring and building my understanding in: Basic programming, Communication skills and using different online tools for academic and professonal growth.
